@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_register" type="id" />
+    <item name="image_register" type="id" />
+    <item name="til_username" type="id" />
+    <item name="et_username_register" type="id" />
+    <item name="et_email_register" type="id" />
+    <item name="et_password_register" type="id" />
+    <item name="til_konfirm_password" type="id" />
+    <item name="et_konfirm_password_register" type="id" />
+    <item name="btn_register" type="id" />
+</resources>

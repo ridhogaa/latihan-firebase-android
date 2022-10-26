@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751222159053",
+    "project_id": "testing-project-first-cba24",
+    "storage_bucket": "testing-project-first-cba24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751222159053:android:7b343d60f59b1adbb79b84",
+        "android_client_info": {
+          "package_name": "com.ergea.latihan_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751222159053-22m787nh0uht3kj63dqmps9hl7vatqha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPbjhQ0qCiMISu1h1dYf_LBE_cZXUNtJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751222159053-22m787nh0uht3kj63dqmps9hl7vatqha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
